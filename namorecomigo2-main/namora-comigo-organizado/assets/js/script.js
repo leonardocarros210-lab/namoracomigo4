@@ -310,9 +310,9 @@ const perguntasQuiz = [
             "Sua habilidade de fazer comida boa 😁",
             "Sua personalidade esquisitinha 🥹",
             "Seu cabelinho 🫶",
-            "os tete 💖"
+            "seus olhinhos enormes 💖"
         ],
-        resposta: 3
+        resposta: 2
     },
     {
         pergunta: " o que mais a gente faz quando estamos em call 🌹",
@@ -327,7 +327,7 @@ const perguntasQuiz = [
     {
         pergunta: "Como eu me sinto quando estou com você? 🥰",
         alternativas: [
-            "com tesão e feliz 💕",
+            "MUITO FELIZ PORQUE VOCÊ PASSAR TEMPO COM VOCÊ É A MELHOR COISA DO MUNDO 💕",
             "Com sono porque eu tenho preguiça de sair da sua cama 😴",
             "Com fome porque você me faz gastar energia de bike 🍕",
             "Querendo ir embora porque você ta me incomodando 😂"
